@@ -1,21 +1,15 @@
-import logo from './logo.svg';
+
+import React from 'react';
 import './App.css';
+import Header from './components/Header/Header';
+import Shop from './components/Shop/Shop';
+import Product from './components/Product/Product';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Shohan Learning React
-        </a>
-      </header>
+      <Header></Header>
+      <Shop></Shop>
     </div>
   );
 }

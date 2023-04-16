@@ -1,0 +1,25 @@
+.product{
+    padding: 10px 0px;
+    border-bottom:  2px solid #ddd;
+    display: flex;
+}
+.productImg {
+    width: 30%;
+
+}
+.productImg img{
+    width: 100%;
+}
+.productInfo{
+    width:70%;
+    padding: 0px 15px;
+}
+.productInfo .row{
+    display: flex;
+}
+.productInfo .product-price{
+    width: 50%;
+}
+.productInfo .product-feature{
+    width: 50%;
+}

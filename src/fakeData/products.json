@@ -209,32 +209,6 @@
         "quantity": 0
     },
     {
-        "id": "fd52819a-cb78-4510-ad2f-c5bdd888ae78",
-        "category": "Men's Pants",
-        "name": "FRENCH TERRY TAPERED CUFF LOGO PANTS",
-        "seller": "Addidas",
-        "price": 189,
-        "stock": 27,
-        "ratings": 3,
-        "ratingsCount": 1974,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d47f8bc94b2c401b9eafad23007fd8c4_9366/Primegreen_Essentials_Warm-Up_Open_Hem_3-Stripes_Track_Pants_Black_H48430_21_model.jpg",
-        "shipping": 20,
-        "quantity": 0
-    },
-    {
-        "id": "c667d3ff-41eb-4cf7-a433-819d959ea768",
-        "category": "Men's Pants",
-        "name": "OPEN HEM 3-STRIPES TRACK PANTS",
-        "seller": "Addidas",
-        "price": 58,
-        "stock": 41,
-        "ratings": 5,
-        "ratingsCount": 2140,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d47f8bc94b2c401b9eafad23007fd8c4_9366/Primegreen_Essentials_Warm-Up_Open_Hem_3-Stripes_Track_Pants_Black_H48430_21_model.jpg",
-        "shipping": 49,
-        "quantity": 0
-    },
-    {
         "id": "e1dbc7fe-be17-4e0f-9e2d-6ad5dbc102fc",
         "category": "Men's Pants",
         "name": "ESSENTIALS4GAMEDAY PANTS",
